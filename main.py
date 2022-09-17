@@ -13,3 +13,5 @@ message = client.messages.create(
                           )
 
 print("Message ID:",message.sid)
+- isim: Özel mesajlarla Whatsapp'ta push bildirimi
+  kullanım alanları: KhaledAhmed-Ibtikar/whatsapp-push-notify-action@1.3
